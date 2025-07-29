@@ -1,0 +1,4 @@
+model: "baidu/paddle_internal/ERNIE-45-Turbo"
+max_model_len: 32768
+max_num_seqs: 128
+kv_cache_ratio: 0.5
